@@ -35,6 +35,7 @@ This is a JOKE project. Do NOT attempt to remove preprocessor directives in real
 
 ### 🍿 Hall of Fame
 Contributors who've bravely removed the hash will be immortalized here!
+
 [![Contributors](https://contrib.rocks/image?repo=TalentdOrg/the-great-hash-remover-amazon)](https://github.com/TalentdOrg/the-great-hash-remover-amazon/graphs/contributors)
 
 ## 🔍 How It Works
