@@ -13,7 +13,7 @@ Remove every single `#` from our codebase and watch the magic happen (spoiler: n
 ### 🤝 How to Contribute
 1. Fork the repository
 2. Find a code file
-3. Remove a `#`
+3. Remove a `#` (remove only 1 #, it is restricted to one # per person)
 4. Create a pull request
 5. Laugh at the absurdity
 
@@ -24,15 +24,14 @@ Remove every single `#` from our codebase and watch the magic happen (spoiler: n
 - Keep the humor alive!
 
 ### 🚨 Disclaimer
-This is a JOKE project. Do NOT attempt to remove comments or preprocessor directives in real-world production code.
+This is a JOKE project. Do NOT attempt to remove preprocessor directives in real-world production code.
 
 ### 🤖 Languages Supported
 - Python
 - JavaScript
 - Java
-- C++
-- Ruby
-- And more!
+- C
+- + you can contribute to more language
 
 ### 🍿 Hall of Fame
 Contributors who've bravely removed the most hashes will be immortalized here!
@@ -41,3 +40,4 @@ Contributors who've bravely removed the most hashes will be immortalized here!
 We've prepared multiple files across different languages, each with strategic hash placements just waiting to be removed!
 
 ### Contribute Now and Save the Tech World! 💻🦸‍♀️
+Project by Azhar Khan, Founder of [Talentd.in](https://www.talentd.in)
