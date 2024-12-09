@@ -1,4 +1,4 @@
-# The Greats Hashtag Removal Challenge 🚫#️⃣
+# The Great Hashtag Removal Challenge 🚫#️⃣
 
 ## The Legendary Hash Removal Challenge 🕵️‍♂️
 
