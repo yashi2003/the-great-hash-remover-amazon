@@ -98,6 +98,15 @@
       ]
     },
     {
+      "login": "Deba43",
+      "name": "Debadatta Behera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105921307?v=4",
+      "profile": "https://github.com/Deba43",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "AmanKumar-33",
       "name": "Aman Kumar",
       "avatar_url": "https://avatars.githubusercontent.com/u/89511864?v=4",
@@ -105,7 +114,7 @@
       "contributions": [
         "code"
       ]
-    }
+    },
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
