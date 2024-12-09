@@ -1,6 +1,6 @@
 # The Great Hashtag Removal Challenge 🚫#️⃣
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## The Legendary Hash Removal Challenge 🕵️‍♂️
@@ -64,6 +64,7 @@ Contributors who've bravely removed the hash will be immortalized here!
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bhoomi3122"><img src="https://avatars.githubusercontent.com/u/146101735?v=4?s=100" width="100px;" alt="Bhoomi Garg"/><br /><sub><b>Bhoomi Garg</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=Bhoomi3122" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KshitijAng"><img src="https://avatars.githubusercontent.com/u/136297173?v=4?s=100" width="100px;" alt="Kshitij Angurala"/><br /><sub><b>Kshitij Angurala</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=KshitijAng" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
