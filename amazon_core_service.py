@@ -1021,8 +1021,7 @@ def secret_amazon_service():
 # Hash 997
 # Hash 998
 # Hash 999
-# Hash 1000
-# Hash 1001 - The Legend of the Missing Hash
+# Hash 1000 - The Legend of the Missing Hash
     return "Everything is technically working as intended... technically"
 
 # the last one!!!!!!!
