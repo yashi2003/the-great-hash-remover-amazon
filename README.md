@@ -34,7 +34,8 @@ This is a JOKE project. Do NOT attempt to remove preprocessor directives in real
 - + you can contribute to more language
 
 ### 🍿 Hall of Fame
-Contributors who've bravely removed the most hashes will be immortalized here!
+Contributors who've bravely removed the hash will be immortalized here!
+[![Contributors](https://contrib.rocks/image?repo=TalentdOrg/the-great-hash-remover-amazon)](https://github.com/TalentdOrg/the-great-hash-remover-amazon/graphs/contributors)
 
 ## 🔍 How It Works
 We've prepared multiple files across different languages, each with strategic hash placements just waiting to be removed!
