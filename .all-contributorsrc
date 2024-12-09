@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "takaleem",
+      "name": "takaleem",
+      "avatar_url": "https://avatars.githubusercontent.com/u/120354513?v=4",
+      "profile": "https://github.com/takaleem",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "the-great-hash-remover-amazon",
+  "projectOwner": "TalentdOrg"
+}
