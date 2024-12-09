@@ -12,7 +12,6 @@ public class AmazonCoreService {
     }
 
     public static void secretAmazonService() {
-        // Hash 3
         // Hash 4
         // Hash 5
         // Hash 6
