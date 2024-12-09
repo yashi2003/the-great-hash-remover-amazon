@@ -1,125 +1,125 @@
 {
-  "files": [
-    "README.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "commitType": "docs",
-  "commitConvention": "angular",
-  "contributors": [
-    {
-      "login": "takaleem",
-      "name": "takaleem",
-      "avatar_url": "https://avatars.githubusercontent.com/u/120354513?v=4",
-      "profile": "https://github.com/takaleem",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "mujtbkhn",
-      "name": "Mujtaba Khan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/86319200?v=4",
-      "profile": "https://mujtaba-portfolio-weld.vercel.app/",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "lamergameryt",
-      "name": "lamergameryt",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22660277?v=4",
-      "profile": "https://lamergameryt.com/",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "SreeAditya-Dev",
-      "name": "Sree Aditya",
-      "avatar_url": "https://avatars.githubusercontent.com/u/165385350?v=4",
-      "profile": "https://hgg.pythonanywhere.com/",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "prernaranal",
-      "name": "prernaranal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/129548267?v=4",
-      "profile": "https://github.com/prernaranal",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "devyess",
-      "name": "devyess",
-      "avatar_url": "https://avatars.githubusercontent.com/u/90464696?v=4",
-      "profile": "https://github.com/devyess",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "Nothing-avil",
-      "name": "Sandarbh Singhal",
-      "avatar_url": "https://avatars.githubusercontent.com/u/123533242?v=4",
-      "profile": "https://github.com/Nothing-avil",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "Revanth-Pershad",
-      "name": "Puli Revanth Pershad",
-      "avatar_url": "https://avatars.githubusercontent.com/u/70310699?v=4",
-      "profile": "https://github.com/Revanth-Pershad",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "Rahulv1130",
-      "name": "Rahul Verma",
-      "avatar_url": "https://avatars.githubusercontent.com/u/136475196?v=4",
-      "profile": "https://github.com/Rahulv1130",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "7Hakeem7",
-      "name": "7Hakeem7",
-      "avatar_url": "https://avatars.githubusercontent.com/u/111656805?v=4",
-      "profile": "https://github.com/7Hakeem7",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "Deba43",
-      "name": "Debadatta Behera",
-      "avatar_url": "https://avatars.githubusercontent.com/u/105921307?v=4",
-      "profile": "https://github.com/Deba43",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "AmanKumar-33",
-      "name": "Aman Kumar",
-      "avatar_url": "https://avatars.githubusercontent.com/u/89511864?v=4",
-      "profile": "https://github.com/AmanKumar-33",
-      "contributions": [
-        "code"
-      ]
-    },
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": true,
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "projectName": "the-great-hash-remover-amazon",
-  "projectOwner": "TalentdOrg"
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 100,
+    "commit": false,
+    "commitType": "docs",
+    "commitConvention": "angular",
+    "contributors": [
+        {
+            "login": "takaleem",
+            "name": "takaleem",
+            "avatar_url": "https://avatars.githubusercontent.com/u/120354513?v=4",
+            "profile": "https://github.com/takaleem",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "mujtbkhn",
+            "name": "Mujtaba Khan",
+            "avatar_url": "https://avatars.githubusercontent.com/u/86319200?v=4",
+            "profile": "https://mujtaba-portfolio-weld.vercel.app/",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "lamergameryt",
+            "name": "lamergameryt",
+            "avatar_url": "https://avatars.githubusercontent.com/u/22660277?v=4",
+            "profile": "https://lamergameryt.com/",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "SreeAditya-Dev",
+            "name": "Sree Aditya",
+            "avatar_url": "https://avatars.githubusercontent.com/u/165385350?v=4",
+            "profile": "https://hgg.pythonanywhere.com/",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "prernaranal",
+            "name": "prernaranal",
+            "avatar_url": "https://avatars.githubusercontent.com/u/129548267?v=4",
+            "profile": "https://github.com/prernaranal",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "devyess",
+            "name": "devyess",
+            "avatar_url": "https://avatars.githubusercontent.com/u/90464696?v=4",
+            "profile": "https://github.com/devyess",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "Nothing-avil",
+            "name": "Sandarbh Singhal",
+            "avatar_url": "https://avatars.githubusercontent.com/u/123533242?v=4",
+            "profile": "https://github.com/Nothing-avil",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "Revanth-Pershad",
+            "name": "Puli Revanth Pershad",
+            "avatar_url": "https://avatars.githubusercontent.com/u/70310699?v=4",
+            "profile": "https://github.com/Revanth-Pershad",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "Rahulv1130",
+            "name": "Rahul Verma",
+            "avatar_url": "https://avatars.githubusercontent.com/u/136475196?v=4",
+            "profile": "https://github.com/Rahulv1130",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "7Hakeem7",
+            "name": "7Hakeem7",
+            "avatar_url": "https://avatars.githubusercontent.com/u/111656805?v=4",
+            "profile": "https://github.com/7Hakeem7",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "Deba43",
+            "name": "Debadatta Behera",
+            "avatar_url": "https://avatars.githubusercontent.com/u/105921307?v=4",
+            "profile": "https://github.com/Deba43",
+            "contributions": [
+                "code"
+            ]
+        },
+        {
+            "login": "AmanKumar-33",
+            "name": "Aman Kumar",
+            "avatar_url": "https://avatars.githubusercontent.com/u/89511864?v=4",
+            "profile": "https://github.com/AmanKumar-33",
+            "contributions": [
+                "code"
+            ]
+        }
+    ],
+    "contributorsPerLine": 7,
+    "skipCi": true,
+    "repoType": "github",
+    "repoHost": "https://github.com",
+    "projectName": "the-great-hash-remover-amazon",
+    "projectOwner": "TalentdOrg"
 }
