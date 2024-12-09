@@ -58,6 +58,7 @@ Contributors who've bravely removed the hash will be immortalized here!
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rahulv1130"><img src="https://avatars.githubusercontent.com/u/136475196?v=4?s=100" width="100px;" alt="Rahul Verma"/><br /><sub><b>Rahul Verma</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=Rahulv1130" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/7Hakeem7"><img src="https://avatars.githubusercontent.com/u/111656805?v=4?s=100" width="100px;" alt="7Hakeem7"/><br /><sub><b>7Hakeem7</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=7Hakeem7" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Deba43"><img src="https://avatars.githubusercontent.com/u/105921307?v=4?s=100" width="100px;" alt="Debadatta Behera"/><br /><sub><b>Debadatta Behera</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=Deba43" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AmanKumar-33"><img src="https://avatars.githubusercontent.com/u/89511864?v=4?s=100" width="100px;" alt="Aman Kumar"/><br /><sub><b>Aman Kumar</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=AmanKumar-33" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
