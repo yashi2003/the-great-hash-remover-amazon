@@ -1,6 +1,6 @@
 # The Great Hashtag Removal Challenge 🚫#️⃣
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## The Legendary Hash Removal Challenge 🕵️‍♂️
@@ -61,6 +61,9 @@ Contributors who've bravely removed the hash will be immortalized here!
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AmanKumar-33"><img src="https://avatars.githubusercontent.com/u/89511864?v=4?s=100" width="100px;" alt="Aman Kumar"/><br /><sub><b>Aman Kumar</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=AmanKumar-33" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://armaanportfoliowebsite.onrender.com"><img src="https://avatars.githubusercontent.com/u/158613082?v=4?s=100" width="100px;" alt="Armaan"/><br /><sub><b>Armaan</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=armaandeol" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vjy-07"><img src="https://avatars.githubusercontent.com/u/118528505?v=4?s=100" width="100px;" alt="Vijay"/><br /><sub><b>Vijay</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=vjy-07" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Bhoomi3122"><img src="https://avatars.githubusercontent.com/u/146101735?v=4?s=100" width="100px;" alt="Bhoomi Garg"/><br /><sub><b>Bhoomi Garg</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=Bhoomi3122" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
