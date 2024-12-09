@@ -11,7 +11,6 @@ int main() {
 }
 
 void secretAmazonService() {
-    // # Hash 1
     // # Hash 2
     // # Hash 3
     // # Hash 4
