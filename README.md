@@ -1,6 +1,6 @@
 # The Great Hashtag Removal Challenge 🚫#️⃣
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## The Legendary Hash Removal Challenge 🕵️‍♂️
@@ -52,6 +52,9 @@ Contributors who've bravely removed the hash will be immortalized here!
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/prernaranal"><img src="https://avatars.githubusercontent.com/u/129548267?v=4?s=100" width="100px;" alt="prernaranal"/><br /><sub><b>prernaranal</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=prernaranal" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/devyess"><img src="https://avatars.githubusercontent.com/u/90464696?v=4?s=100" width="100px;" alt="devyess"/><br /><sub><b>devyess</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=devyess" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nothing-avil"><img src="https://avatars.githubusercontent.com/u/123533242?v=4?s=100" width="100px;" alt="Sandarbh Singhal"/><br /><sub><b>Sandarbh Singhal</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=Nothing-avil" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Revanth-Pershad"><img src="https://avatars.githubusercontent.com/u/70310699?v=4?s=100" width="100px;" alt="Puli Revanth Pershad"/><br /><sub><b>Puli Revanth Pershad</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=Revanth-Pershad" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
