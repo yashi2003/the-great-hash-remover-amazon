@@ -1,6 +1,6 @@
 # The Great Hashtag Removal Challenge 🚫#️⃣
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## The Legendary Hash Removal Challenge 🕵️‍♂️
@@ -74,6 +74,7 @@ Contributors who've bravely removed the hash will be immortalized here!
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/raj-adi00"><img src="https://avatars.githubusercontent.com/u/146407913?v=4?s=100" width="100px;" alt="ADITYA RAJ"/><br /><sub><b>ADITYA RAJ</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=raj-adi00" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://souviksenapati-portfolio.netlify.app/"><img src="https://avatars.githubusercontent.com/u/47359760?v=4?s=100" width="100px;" alt="Souvik Senapati"/><br /><sub><b>Souvik Senapati</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=souviksenapati" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AdityaBhendavadekar"><img src="https://avatars.githubusercontent.com/u/97280740?v=4?s=100" width="100px;" alt="aditya1193"/><br /><sub><b>aditya1193</b></sub></a><br /><a href="https://github.com/TalentdOrg/the-great-hash-remover-amazon/commits?author=AdityaBhendavadekar" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
