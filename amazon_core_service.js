@@ -3,7 +3,6 @@
 // Collaborative hash removal challenge begins!
 
 function secretAmazonService() {
-    // Hash 2
     // Hash 3
     // Hash 4
     // Hash 5
