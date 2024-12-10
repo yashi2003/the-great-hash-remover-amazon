@@ -204,6 +204,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "souviksenapati",
+      "name": "Souvik Senapati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47359760?v=4",
+      "profile": "https://souviksenapati-portfolio.netlify.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
